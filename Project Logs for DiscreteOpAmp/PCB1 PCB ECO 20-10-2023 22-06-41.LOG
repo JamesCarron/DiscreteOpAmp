@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=J6-1
+Removed Pin From Net: NetName=VEE Pin=J10-1
+Removed Member From Class: ClassName=Advanced Member=J6
+Removed Member From Class: ClassName=Advanced Member=J10
