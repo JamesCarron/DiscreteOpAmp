@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SqWave Pin=J1-1
+Removed Pin From Net: NetName=VCC Pin=J1-2
+Removed Pin From Net: NetName=TriWave Pin=J1-3
+Removed Pin From Net: NetName=SineWave Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=J1-14
+Removed Pin From Net: NetName=GND Pin=J1-15
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=SineWave Pin=J1-11
+Added Pin To Net: NetName=TriWave Pin=J1-13
+Added Pin To Net: NetName=SqWave Pin=J1-15
+Added Member To Class: ClassName=Connectors Member=Component J1 DF9-15P-1V(32)
