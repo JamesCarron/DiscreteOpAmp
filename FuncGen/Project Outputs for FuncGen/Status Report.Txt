@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [FuncGen.PrjPcb]
+   Generated File[FuncGen_Copper_Signal_Top.gbr]
+   Generated File[FuncGen_Copper_Signal_Bot.gbr]
+   Generated File[FuncGen_Legend_Top.gbr]
+   Generated File[FuncGen_Legend_Bot.gbr]
+   Generated File[FuncGen_Soldermask_Top.gbr]
+   Generated File[FuncGen_Soldermask_Bot.gbr]
+   Generated File[FuncGen_Paste_Top.gbr]
+   Generated File[FuncGen_Paste_Bot.gbr]
+   Generated File[FuncGen_Profile.gbr]
+   Generated File[FuncGen_NPTH_Drill.gbr]
+   Generated File[FuncGen_PTH_Drill.gbr]
+   Generated File[FuncGen.EXTREP]
+   Generated File[FuncGen.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 17:48:06 On 23/10/2023
