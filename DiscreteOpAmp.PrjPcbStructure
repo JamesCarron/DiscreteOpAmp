@@ -1,3 +1,4 @@
-Record=TopLevelDocument|FileName=AdvancedDiscreteOpAmp.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=AdvancedDiscreteOpAmp.SchDoc|FileName=BasicDiscreteOpAmp.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=AdvancedDiscreteOpAmp.SchDoc|FileName=ModernOpAmp.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_AdvancedDiscreteOpAmp|SchDesignator=U_AdvancedDiscreteOpAmp|FileName=AdvancedDiscreteOpAmp.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=AdvancedDiscreteOpAmp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_BasicDiscreteOpAmp|SchDesignator=U_BasicDiscreteOpAmp|FileName=BasicDiscreteOpAmp.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=BasicDiscreteOpAmp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=main.SchDoc|FileName=LM741_Design.SchDoc|SheetNumber=4
