@@ -45,7 +45,7 @@ The reference it follows (again with different designators, and with a 30 pF com
 
 ### Where it's heading: the LM741
 
-<img src="Documentation/LM741_DiscreteDesign.png" width="800" alt="LM741 internal schematic with its current mirrors, differential amplifier, class-A gain stage, level shifter and output stage outlined">
+<img src="Documentation/LM741_DiscreteDesign.jpg" width="800" alt="LM741 internal schematic with its current mirrors, differential amplifier, class-A gain stage, level shifter and output stage outlined">
 
 `LM741_Design.SchDoc` holds the LM741's transistor-level schematic as an embedded image; it is not drawn circuitry and is not on the PCB. The building blocks are the same ones the advanced design uses — differential input, current-mirror loads and bias, a compensated class-A gain stage, and a class-AB output — with additions such as the NPN/PNP cascode input stage (Q1–Q4), the V<sub>BE</sub>-multiplier level shifter (Q16) and output short-circuit protection.
 
